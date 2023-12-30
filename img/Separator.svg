@@ -1,0 +1,20 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258 21" width="258" height="21">
+	<title>Portfolio Section</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #3b3b3b } 
+		.txt1 { font-size: 44px;line-height: 22px;fill: #393a3a;font-weight: 400;font-family: "RobotoSlab-Regular", "Roboto Slab" } 
+	</style>
+	<g id="Portfolio Section">
+		<g id="Title">
+			<g id="Separator">
+				<path id="Rectangle 5" class="shp0" d="M0 12L80 12L80 16L0 16L0 12Z" />
+				<path id="Rectangle 5 copy" class="shp0" d="M178 12L258 12L258 16L178 16L178 12Z" />
+				<text id="×××" style="transform: matrix(1,0,0,1,-190,-5.831)" >
+					<tspan x="285.518" y="31.281" class="txt1">×</tspan><tspan  y="31.281" class="txt1">××
+</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>

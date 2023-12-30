@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 4" width="80" height="4">
+	<title>Portfolio Section</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #383a3c } 
+	</style>
+	<g id="Portfolio Section">
+		<path id="Rectangle 8" class="shp0" d="M0 0L80 0L80 4L0 4L0 0Z" />
+	</g>
+</svg>
